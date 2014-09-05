@@ -14,7 +14,9 @@ namespace MvcApplication1.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 
-            return View();
+            // create and display one Person
+            Sesson["p"] = man.getPeople(); // get Person from the manager object
+            return View((Person)Session["p"]);
         }
 
         public ActionResult About()
