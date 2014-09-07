@@ -84,3 +84,5 @@ c:\users\common\documents\visual studio 2013\Projects\MvcApplication1\MvcApplica
 c:\users\common\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 c:\users\common\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 c:\users\common\documents\visual studio 2013\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\RaguS\Documents\Visual Studio 2013\Projects\CourseProjects\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\RaguS\Documents\Visual Studio 2013\Projects\CourseProjects\MvcApplication1\obj\Debug\MvcApplication1.dll
